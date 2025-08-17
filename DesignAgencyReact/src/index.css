@@ -42,7 +42,7 @@
   }
   
   h1{
-    @apply font-[Grotesk] font-[500] md:font-[600]  text-5xl  sm:text-6xl md:text-8xl tracking-normal md:tracking-tight lg:text-9xl 
+    @apply font-[Grotesk] font-[500] md:font-[600]  text-5xl  sm:text-6xl md:text-8xl tracking-wider md:tracking-tight lg:text-9xl 
     text-[var(--HeadingText)] uppercase;
   }
 
