@@ -7,7 +7,7 @@ const LandingPage = () => {
   return (
     <>
     <div data-scroll data-scroll-section data-scroll-speed="-.6" className='w-full max-h-screen pt-40'>
-        <div className='textStructure px-10 lg:px-20'>
+        <div className='textStructure px-6 md:px-10 lg:px-20'>
             <div className="mask">
                 <h1>We Create</h1>
             </div>
